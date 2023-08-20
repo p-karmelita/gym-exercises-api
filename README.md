@@ -1,1 +1,1 @@
-# gym-flow-api
+# gym-exercises-api
